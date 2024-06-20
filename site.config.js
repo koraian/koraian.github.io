@@ -4,8 +4,7 @@ const CONFIG = {
     name: "KORAIA",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "한국인공지능협회",
-    bio: `시선은 미래를 향하고,
-    행동은 미래를 앞당긴다.`,
+    bio: `시선은 미래를 향하고,\n행동은 미래를 앞당긴다.`,
     email: "info@koraia.org",
     linkedin: "morethanmin",
     github: "morethanmin",

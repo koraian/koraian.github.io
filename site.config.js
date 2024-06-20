@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `(사)한국인공지능협회`,
+      href: "https://koraia.org",
     },
   ],
   // blog setting (required)

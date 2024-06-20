@@ -16,7 +16,7 @@ const ContactCard: React.FC = () => {
         <Emoji>💬</Emoji> Contact
       </StyledTitle>
       <StyledWrapper>
-        {CONFIG.profile.github && (
+        {/* {CONFIG.profile.github && (
           <a
             href={`https://github.com/${CONFIG.profile.github}`}
             rel="noreferrer"
@@ -35,7 +35,7 @@ const ContactCard: React.FC = () => {
             <AiOutlineInstagram className="icon" />
             <div className="name">instagram</div>
           </a>
-        )}
+        )} */}
         {CONFIG.profile.email && (
           <a
             href={`mailto:${CONFIG.profile.email}`}
@@ -47,7 +47,7 @@ const ContactCard: React.FC = () => {
             <div className="name">email</div>
           </a>
         )}
-        {CONFIG.profile.linkedin && (
+        {/* {CONFIG.profile.linkedin && (
           <a
             href={`https://www.linkedin.com/in/${CONFIG.profile.linkedin}`}
             rel="noreferrer"
@@ -56,7 +56,7 @@ const ContactCard: React.FC = () => {
             <AiFillLinkedin className="icon" />
             <div className="name">linkedin</div>
           </a>
-        )}
+        )} */}
       </StyledWrapper>
     </>
   )

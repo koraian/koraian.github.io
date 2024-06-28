@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "미래를 여는 인공지능, 한국인공지능협회",
+    title: "미래를 여는 AI, 한국인공지능협회",
     description: "한국인공지능협회(Korea Artificial Intelligence Association, KORAIA)는 인공지능(AI) 기술 및 산업 발전을 촉진하기 위해 설립된 비영리 단체입니다.",
     scheme: "system", // 'light' | 'dark' | 'system'
   },

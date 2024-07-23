@@ -16,11 +16,11 @@ const CONFIG = {
       href: "https://koraia.org",
     },
     {
-      name: `[LIVE] 사업공고 살펴보기`,
+      name: `[🔴실시간] 사업공고 살펴보기`,
       href: "https://docs.google.com/spreadsheets/d/1Buc5ErfEW2RDUtCFyXxoZVwRK-4c4UViDDnWwT3pNk4/edit?gid=0#gid=0",
     },
     {
-      name: `[LIVE] 회원사 소식보기`,
+      name: `[🔴실시간] 회원사 소식보기`,
       href: "https://koraia.org/default/mp5/sub5.php?sub=05",
     },
   ],

@@ -6,8 +6,8 @@ const CONFIG = {
     role: "한국인공지능협회",
     bio: `시선은 미래를 향하고, 행동은 미래를 앞당긴다.`,
     email: "info@koraia.org",
-    linkedin: "morethanmin",
-    github: "morethanmin",
+    linkedin: "koraia",
+    github: "koraia",
     instagram: "",
   },
   projects: [

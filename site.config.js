@@ -15,6 +15,14 @@ const CONFIG = {
       name: `(사)한국인공지능협회`,
       href: "https://koraia.org",
     },
+    {
+      name: `[LIVE] 사업공고 살펴보기`,
+      href: "https://docs.google.com/spreadsheets/d/1Buc5ErfEW2RDUtCFyXxoZVwRK-4c4UViDDnWwT3pNk4/edit?gid=0#gid=0",
+    },
+    {
+      name: `[LIVE] 회원사 소식보기`,
+      href: "https://koraia.org/default/mp5/sub5.php?sub=05",
+    },
   ],
   // blog setting (required)
   blog: {

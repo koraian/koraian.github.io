@@ -24,7 +24,7 @@ const CONFIG = {
       href: "https://koraia.org/default/mp5/sub5.php?sub=05",
     },
     {
-      name: `🟢 CEO 아카데미 2기`,
+      name: `🟢 AI LEADER 아카데미 모집중`,
       href: "https://ceo.koraia.org",
     },
   ],

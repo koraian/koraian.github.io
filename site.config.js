@@ -24,7 +24,7 @@ const CONFIG = {
       href: "https://koraia.org/default/mp5/sub5.php?sub=05",
     },
     {
-      name: `🟢 AI LEADER 아카데미 모집중`,
+      name: `🟢 AI LEADER 아카데미 모집`,
       href: "https://ceo.koraia.org",
     },
   ],
@@ -84,4 +84,4 @@ const CONFIG = {
   revalidateTime: 21600 * 7, // revalidate time for [slug], index
 }
 
-module.exports = { CONFIG }
+module.exports = { CONFIG, staticPageGenerationTimeout: 120}

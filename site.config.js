@@ -16,15 +16,15 @@ const CONFIG = {
       href: "https://koraia.org",
     },
     {
-      name: `🔴 사업공고 살펴보기`,
+      name: `사업공고 살펴보기`,
       href: "https://docs.google.com/spreadsheets/d/1Buc5ErfEW2RDUtCFyXxoZVwRK-4c4UViDDnWwT3pNk4/edit?gid=0#gid=0",
     },
     {
-      name: `🟠 회원사 소식보기`,
+      name: `회원사 소식보기`,
       href: "https://koraia.org/default/mp5/sub5.php?sub=05",
     },
     {
-      name: `🟢 AI LEADER 아카데미 모집`,
+      name: `AI LEADER 아카데미`,
       href: "https://ceo.koraia.org",
     },
   ],
